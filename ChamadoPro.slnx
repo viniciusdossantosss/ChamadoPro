@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChamadoPro.Api/ChamadoPro.Api.csproj" />
+  <Project Path="ChamadoPro.Tests/ChamadoPro.Tests.csproj" />
+</Solution>
